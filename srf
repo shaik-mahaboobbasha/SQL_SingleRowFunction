@@ -1,0 +1,44 @@
+https://youtu.be/un0SO9BRdZw
+https://youtu.be/FTq1E9uTfvo
+https://youtu.be/xKx1EByhyHQ
+https://youtu.be/FJDTT_W33CM
+
+
+Upper()
+Lower()
+Inticap()
+trim()
+rtrim()
+ltrim()
+concat()
+substr()
+instr()
+rpad()
+lpad()
+translate()
+replace()
+Reverse()
+length()
+------------------------------------
+abs()-->always return positive
+ceil()---> always gives greater or increase value
+floor()--->always gives lesser or decrease value
+round()
+trunc()
+sqrt()
+pow()
+mod()
+------------------------------------------------------------
+add_months---------> increase months
+months_between
+sysdate
+current_date
+get_date()
+next_day()----------> upcoming monday date returns
+last_day()------------> lastday of the month
+round()
+trunc()
+--------------------------------------------------
+to_char()
+to_date()
+to_num()
